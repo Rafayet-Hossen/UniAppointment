@@ -109,7 +109,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     </svg>
                 </div>
                 <div>
-                    <p class="eyebrow">Student Services</p>
+                    <p class="eyebrow">Student Registration</p>
                     <h1>Create Your Account</h1>
                     <p class="subtext">Join and continue your journey at UIU.</p>
                 </div>

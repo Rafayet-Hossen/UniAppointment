@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     </svg>
                 </div>
                 <h1>Welcome Back</h1>
-                <p class="subtitle">Sign in to continue your learning journey</p>
+                <p class="subtitle">Sign in to continue your journey at UIU</p>
             </div>
 
             <form method="POST" action="" class="login-form">
